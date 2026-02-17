@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasim Uddin</h1>
-<h3 align="center">🚀 Full Stack Developer | WordPress Specialist | Meta Ads Strategist | AI-Powered Builder</h3>
+<h3 align="center">🚀 WordPress Specialist | Meta Ads Strategist | Full Stack Developer | AI-Powered Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;WordPress+Performance+Expert;Laravel+%26+PHP+Specialist;Meta+Ads+Scaling+Strategist;AI+Powered+System+Builder&center=true&width=650&height=45">
@@ -9,19 +9,21 @@
 
 ## 👨‍💻 Professional Summary
 
-I build **high-performance web systems** that are not just beautiful — but profitable and scalable.
+I build **fast, scalable, real-world web systems** - and I understand both sides:
+**engineering + marketing**.
 
 - 🔭 Currently building: **Quran & Hadith Knowledge Platform**
 - ⚡ Special focus: **WordPress performance, Laravel systems, conversion optimization**
 - 🧠 Working with: **AI-assisted development workflows**
 - 📈 Helping businesses scale with: **Meta Ads + technical optimization**
-- 📍 Location: **Dhaka, Bangladesh**
+
+📍 **Dhaka, Bangladesh**
 
 ---
 
 ## 🚀 Core Expertise
 
-- ✅ Full Stack Web Development  
+- ✅ WordPress Web Development  
 - ✅ Advanced WordPress Development  
 - ✅ Custom Plugin & Theme Development  
 - ✅ Laravel Application Development  
@@ -112,7 +114,7 @@ I build **high-performance web systems** that are not just beautiful — but pro
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://bio.link/jasimuddinevan" target="_blank">
+  <a href="https://bio.link/jasimuddin" target="_blank">
     <img src="https://img.shields.io/badge/Bio.link-Visit_Profile-black?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 
@@ -131,4 +133,8 @@ I build **high-performance web systems** that are not just beautiful — but pro
 
 <p align="center">
   🔥 Always shipping. Always improving.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=90&section=footer&text=Always%20Shipping%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff" />
 </p>
