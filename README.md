@@ -1,42 +1,59 @@
 <h1 align="center">Hi 👋, I'm Jasim Uddin</h1>
-<h3 align="center">🚀 Full Stack Laravel Developer | Meta Ads Specialist | System Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | WordPress Specialist | Meta Ads Strategist | AI-Powered Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Developer;Full+Stack+Web+Builder;Meta+Ads+Expert;Performance+Driven+Marketer;Always+Learning+New+Tech&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;WordPress+Performance+Expert;Laravel+%26+PHP+Specialist;Meta+Ads+Scaling+Strategist;AI+Powered+System+Builder&center=true&width=650&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
+
+I build **high-performance web systems** that are not just beautiful — but profitable and scalable.
 
 - 🔭 Currently building: **Quran & Hadith Knowledge Platform**
-- 🛠 Working with: **Laravel, PHP, TypeScript, MySQL**
-- 🌱 Learning: **Advanced System Design & Scalable Architecture**
-- 💬 Ask me about: **Web Hosting, Laravel Debugging, Meta Ads Scaling**
-- 📍 Based in: **Dhaka, Bangladesh**
-- 🚀 Passion: Building digital systems that actually make money
+- ⚡ Special focus: **WordPress performance, Laravel systems, conversion optimization**
+- 🧠 Working with: **AI-assisted development workflows**
+- 📈 Helping businesses scale with: **Meta Ads + technical optimization**
+- 📍 Location: **Dhaka, Bangladesh**
 
 ---
 
-## 🌐 Live Projects
+## 🚀 Core Expertise
 
-- 🔗 Quran & Hadith Platform: https://quran-hadith.lovable.app
-- 🔗 Smartify App: https://smertify.vercel.app/
+- ✅ Full Stack Web Development  
+- ✅ Advanced WordPress Development  
+- ✅ Custom Plugin & Theme Development  
+- ✅ Laravel Application Development  
+- ✅ Website Speed Optimization  
+- ✅ Server & Cloud Deployment  
+- ✅ Meta Ads Performance Scaling  
+- ✅ AI-assisted Coding & Automation  
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,ts,html,css,mysql,postgres,git,github,linux,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,js,ts,html,css,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Featured Live Projects
+
+- 🔗 **Quran & Hadith Platform**  
+  https://quran-hadith.lovable.app
+
+- 🔗 **Smartify App**  
+  https://smertify.vercel.app/
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasimuddinevan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasimuddinevan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
@@ -49,14 +66,13 @@
 
 ---
 
-## 🧠 What I Do
+## 🧠 What Makes My Work Different
 
-✔ Build Full Stack Web Applications  
-✔ Deploy & Manage Cloud Hosting  
-✔ Fix Complex Laravel Errors  
-✔ Optimize Server Performance  
-✔ Scale E-commerce with Meta Ads  
-✔ Automate Workflows & Systems  
+🚀 Performance-first development  
+🎯 Conversion-focused thinking  
+⚙️ Clean, scalable architecture  
+🤖 AI-accelerated workflows  
+📈 Marketing + Engineering mindset  
 
 ---
 
@@ -68,7 +84,7 @@
 
 ---
 
-## 📈 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -79,22 +95,40 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/wa.me/8801609899713" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
+
+  <a href="mailto:jasinkhan884@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://jasim884@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+
+  <a href="https://wa.me/8801609899713" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+  <a href="https://www.facebook.com/jasimuddinevan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/jasimuddinevan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://bio.link/jasimuddinevan" target="_blank">
+    <img src="https://img.shields.io/badge/Bio.link-Visit_Profile-black?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
 </p>
 
 ---
 
-## ⚡ Personal Motto
 
-> "Build assets. Automate systems. Scale intelligently."
+## ⚡ Philosophy
+
+> Build smart.  
+> Optimize relentlessly.  
+> Scale profitably.
 
 ---
 
 <p align="center">
-  🔥 Always building. Always improving.
+  🔥 Always shipping. Always improving.
 </p>
